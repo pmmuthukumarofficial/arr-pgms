@@ -21,7 +21,7 @@ public class SumOfArrayElements {
 		int arr[]=new int[5]; // input--> arr ---> sum 
 		
 		System.out.println("Type ur values");
-		for(int i=0;i<arr.length;i++)
+		for(int i=0;i<arr.length;i++) //getting input from user
 		{
 			arr[i]=sc.nextInt();
 		}
